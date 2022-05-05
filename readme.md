@@ -9,5 +9,5 @@
 
 # 이미지
 
-<img src="./pds/mvno_app.jpg?raw=true"/>
+<img src="./pds/mvno_apps.jpg?raw=true"/>
 <img src="./pds/mvno_widget.jpg?raw=true"/>
