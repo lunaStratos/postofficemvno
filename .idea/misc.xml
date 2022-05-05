@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/lunas/AppData/Local/Android/Sdk/platforms/android-31/data/res/layout/simple_gallery_item.xml" value="0.3104166666666667" />
+        <entry key="..\:/Users/lunas/AppData/Local/Android/Sdk/platforms/android-31/data/res/layout/test_list_item.xml" value="0.3104166666666667" />
+        <entry key="..\:/Users/lunas/Documents/DEV/AndroidTest/postofficemvno/app/src/main/res/drawable/ic_launcher_background.xml" value="0.3125" />
+        <entry key="..\:/Users/lunas/Documents/DEV/AndroidTest/postofficemvno/app/src/main/res/layout/activity_main.xml" value="0.2692502532928065" />
+        <entry key="..\:/Users/lunas/Documents/DEV/AndroidTest/postofficemvno/app/src/main/res/layout/info_widget.xml" value="0.3109375" />
+        <entry key="..\:/Users/lunas/Documents/DEV/AndroidTest/postofficemvno/app/src/main/res/layout/text_widget_provider_info.xml" value="0.2692502532928065" />
+        <entry key="..\:/Users/lunas/Documents/DEV/AndroidTest/postofficemvno/app/src/main/res/layout/widget.xml" value="0.4466666666666667" />
+        <entry key="..\:/Users/lunas/Documents/DEV/AndroidTest/postofficemvno/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.3125" />
+        <entry key="..\:/Users/lunas/Documents/DEV/AndroidTest/postofficemvno/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.3125" />
+        <entry key="..\:/Users/lunas/Documents/DEV/AndroidTest/postofficemvno/app/src/main/res/xml/appwidget_info.xml" value="0.2692502532928065" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
